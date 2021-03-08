@@ -16,6 +16,7 @@ namespace TestConsoleApp1
             mys.myInt = 0;
             mys.myString = "abcd";
             Console.WriteLine("test: {0} :::: {1}",mys.myInt,mys.myString);
+            // test
         }
     }
 }
